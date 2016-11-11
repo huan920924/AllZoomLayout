@@ -1,0 +1,5 @@
+#README
+----
+这是一个自定义View继承自LinearLayout，使用它你可以使用LinearLayout的任意属性
+更棒的是你将可以实现一个动画的联动，我认为它更适合于在一个RecycleView、ListView或者菜单点击(类似于Win8瓷块)之类中使用
+现在只是一个初始版本，未来如果有需要将加入更多的属性控制
